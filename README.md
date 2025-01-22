@@ -6,7 +6,6 @@ Este proyecto es una aplicación web para organizar un juego de "Amigo Secreto" 
 
 - **Interfaz amigable**: Diseño sencillo y fácil de usar.
 - **Asignación aleatoria**: Distribución justa y aleatoria de los participantes.
-- **Notificaciones**: Posibilidad de enviar notificaciones por correo electrónico a cada participante con el nombre de su "amigo secreto". *(Nota: Esta funcionalidad puede requerir configuración adicional)*
 
 ## Tecnologías Utilizadas
 
